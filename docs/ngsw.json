@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1596956482974,
-  "index": "“https://leechuyem.github.io/tictactoe”/index.html",
+  "timestamp": 1596957229076,
+  "index": "https://leechuyem.github.io/tictactoe/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "“https://leechuyem.github.io/tictactoe”/favicon.ico",
-        "“https://leechuyem.github.io/tictactoe”/index.html",
-        "“https://leechuyem.github.io/tictactoe”/main.9f8e84c830f660d21637.js",
-        "“https://leechuyem.github.io/tictactoe”/manifest.webmanifest",
-        "“https://leechuyem.github.io/tictactoe”/polyfills.a4021de53358bb0fec14.js",
-        "“https://leechuyem.github.io/tictactoe”/runtime.e227d1a0e31cbccbf8ec.js",
-        "“https://leechuyem.github.io/tictactoe”/styles.09e2c710755c8867a460.css"
+        "https://leechuyem.github.io/tictactoe/favicon.ico",
+        "https://leechuyem.github.io/tictactoe/index.html",
+        "https://leechuyem.github.io/tictactoe/main.9f8e84c830f660d21637.js",
+        "https://leechuyem.github.io/tictactoe/manifest.webmanifest",
+        "https://leechuyem.github.io/tictactoe/polyfills.a4021de53358bb0fec14.js",
+        "https://leechuyem.github.io/tictactoe/runtime.e227d1a0e31cbccbf8ec.js",
+        "https://leechuyem.github.io/tictactoe/styles.09e2c710755c8867a460.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-128x128.png",
-        "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-144x144.png",
-        "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-152x152.png",
-        "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-192x192.png",
-        "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-384x384.png",
-        "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-512x512.png",
-        "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-72x72.png",
-        "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-96x96.png"
+        "https://leechuyem.github.io/tictactoe/assets/icons/icon-128x128.png",
+        "https://leechuyem.github.io/tictactoe/assets/icons/icon-144x144.png",
+        "https://leechuyem.github.io/tictactoe/assets/icons/icon-152x152.png",
+        "https://leechuyem.github.io/tictactoe/assets/icons/icon-192x192.png",
+        "https://leechuyem.github.io/tictactoe/assets/icons/icon-384x384.png",
+        "https://leechuyem.github.io/tictactoe/assets/icons/icon-512x512.png",
+        "https://leechuyem.github.io/tictactoe/assets/icons/icon-72x72.png",
+        "https://leechuyem.github.io/tictactoe/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "“https://leechuyem.github.io/tictactoe”/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "“https://leechuyem.github.io/tictactoe”/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "“https://leechuyem.github.io/tictactoe”/index.html": "4a91882e7fdc5905289679f924790cbe4653ad03",
-    "“https://leechuyem.github.io/tictactoe”/main.9f8e84c830f660d21637.js": "be19ff88f0918c837701ed36667114ca4dfbd273",
-    "“https://leechuyem.github.io/tictactoe”/manifest.webmanifest": "74fce8f0216a522acdd1c938ec06e31fdc1746bf",
-    "“https://leechuyem.github.io/tictactoe”/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
-    "“https://leechuyem.github.io/tictactoe”/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "“https://leechuyem.github.io/tictactoe”/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://leechuyem.github.io/tictactoe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://leechuyem.github.io/tictactoe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://leechuyem.github.io/tictactoe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://leechuyem.github.io/tictactoe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://leechuyem.github.io/tictactoe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://leechuyem.github.io/tictactoe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://leechuyem.github.io/tictactoe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://leechuyem.github.io/tictactoe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://leechuyem.github.io/tictactoe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://leechuyem.github.io/tictactoe/index.html": "1ef69b1430cabff2e12bb1edf5cc1ceec57cbb36",
+    "https://leechuyem.github.io/tictactoe/main.9f8e84c830f660d21637.js": "be19ff88f0918c837701ed36667114ca4dfbd273",
+    "https://leechuyem.github.io/tictactoe/manifest.webmanifest": "74fce8f0216a522acdd1c938ec06e31fdc1746bf",
+    "https://leechuyem.github.io/tictactoe/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "https://leechuyem.github.io/tictactoe/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://leechuyem.github.io/tictactoe/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
